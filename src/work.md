@@ -1,5 +1,5 @@
 ---
-title: 'Homepage'
+title: 'Work'
 layout: 'layouts/page.html'
 ---
 

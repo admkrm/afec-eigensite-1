@@ -1,5 +1,5 @@
 ---
-title: 'Homepage'
+title: 'Contact'
 layout: 'layouts/page.html'
 ---
 
